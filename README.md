@@ -1,7 +1,7 @@
 # AIML-Recruitment-2026-Chekuri
 
 ## 1. Candidate Details
-- **Name:** Chekuri
+- **Name:** Chekuri Nishanth
 - **Institution:** SRM Institute of Science and Technology
 - **Track:** Second Years — AI-ML Recruitment Task (Coding Ninjas 10X)
 
