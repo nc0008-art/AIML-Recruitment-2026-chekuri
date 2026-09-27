@@ -7,7 +7,6 @@
 
 ## 2. Tasks Completed
 - ✅ **Task 2: Neural Network** (MNIST Handwritten Digit Classification)
-- ⬜ Task 1: Air Quality Forecasting *(not attempted — guidelines require completing at least one task)*
 
 ## 3. Problem Statement
 Build and train a simple neural network to classify handwritten digits (0–9) from the MNIST dataset, understand each major architectural component, and analyze how changes to the model or training process affect performance.
